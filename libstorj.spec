@@ -6,7 +6,7 @@ Summary:	Library and CLI for the Storj protocol
 Summary(pl.UTF-8):	Biblioteka i narzędzie linii poleceń do protokołu Storj
 Name:		libstorj
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries
 #Source0Download: https://github.com/storj/libstorj/releases
